@@ -87,9 +87,10 @@ public class Srija A {
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=Srija-A-12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FFA500&text_color=ffffff&count_private=true" alt="GitHub Stats" />
       </td>
-  <td width="50%">
-        <img src="https://streak-stats.demolab.com?user=Srija-A-12&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FFA500&currStreakLabel=ffffff" alt="GitHub Streak" />
-      </td>
+ 
+<td width="50%">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Srija-A-12&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FFA500&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+</td>
     </tr>
     <tr>
       <td width="50%">
